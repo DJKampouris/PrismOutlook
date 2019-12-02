@@ -160,24 +160,24 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Infragistics.WPF.DataGrids">
-      <Version>19.1.84</Version>
+      <Version>19.2.52</Version>
     </PackageReference>
     <PackageReference Include="Infragistics.WPF.DataTree">
-      <Version>19.1.84</Version>
+      <Version>19.2.52</Version>
     </PackageReference>
     <PackageReference Include="Infragistics.WPF.OutlookBar">
-      <Version>19.1.84</Version>
+      <Version>19.2.52</Version>
     </PackageReference>
     <PackageReference Include="Infragistics.WPF.Ribbon">
-      <Version>19.1.84</Version>
+      <Version>19.2.52</Version>
     </PackageReference>
     <PackageReference Include="Infragistics.WPF.RichTextDocument.Rtf">
-      <Version>19.1.84</Version>
+      <Version>19.2.52</Version>
     </PackageReference>
     <PackageReference Include="Infragistics.WPF.RichTextEditor">
-      <Version>19.1.84</Version>
+      <Version>19.2.52</Version>
     </PackageReference>
-    <PackageReference Include="Prism.Wpf" Version="7.2.0.1367" />
+    <PackageReference Include="Prism.Wpf" Version="7.2.0.1422" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Images\Bold16.png" />
